@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>My Personal Website</h1>
+    </header>
+    <main>
+        <div class="side left">
+            <h2>Original Text</h2>
+            <p>
+                My honeybunch’s peepers are nothing like neon. Today’s spe-<br>
+                cial at Red Lobster is redder than her kisser. If Liquid Paper is<br>
+                white, her racks are institutional beige. If her mop were Slinkys,<br>
+                dishwater Slinkys would grow on her noggin. I have seen table-<br>
+                cloths in Shakey’s Pizza Parlors, red and white, but no such pic-<br>
+                nic colors do I see in her mug. And in some minty-fresh mouth-<br>
+                washes there is more sweetness than in the garlic breeze my<br>
+                main squeeze wheezes. I love to hear her rap, yet I’m aware that<br>
+                Muzak has a hipper beat. I don’t know any Marilyn Monroes.<br>
+                My ball and chain is plain from head to toe. And yet, by gosh,<br>
+                my scrumptious Twinkie has as much sex appeal for me as any<br>
+                lanky model or platinum movie idol who’s hyped beyond belief.
+            </p>
+        </div>
+        <div class="side right">
+            <h2>Translation</h2>
+            <p>
+                <strong>Dim Lady</strong><br>
+                My honeybunch’s peepers are nothing like neon,  <br>
+                Today’s specials are cheaper than the ozone,  <br>
+                Her face is a mudslide of mascara.<br>
+                Her complexion’s fine if you like yellow and pink.<br>
+                If hairs be wires, they’re staple thin,  <br>
+                Her plants don’t stink nor smell like jin.  <br>
+                With apologies to your mother tongue,  <br>
+                Her chest is chicken, her arms are dumb.  <br>
+                I love to hear her honking sounds,  <br>
+                But music has a sweeter round.  <br>
+                I grant I never saw a goddess go,  <br>
+                My dim lady trips the light rodeo.  <br>
+                And yet, by heck, my love as rare  <br>
+                As any sheila belched compare.  
+            </p>
+        </div>
+    </main>
+</body>
+</html>
